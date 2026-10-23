@@ -1,6 +1,6 @@
 # Hi, I'm esanchma 👋
 
-## 🚀 Expert Architect | Full Stack | Cloud | DevSecOps
+## 🚀 Chief Architect | Full Stack | Cloud | DevSecOps
 
 Passionate about designing and building robust, scalable, and secure systems.  
 My expertise spans the full stack—developing everything with modern DevSecOps practices.
